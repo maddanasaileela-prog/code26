@@ -1,0 +1,9 @@
+#include <stdio.h>
+#include <stdlib.h>
+int main()
+{
+   int a = 55, b = 23;
+ print f("max = %d\n", ((a + b) + abs(a-b)) / 2);
+ print f("min = %d", ((a + b) - abs(a-b)) / 2);
+ return 0;
+}
